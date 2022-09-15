@@ -10,7 +10,15 @@
     border-bottom: 1px solid #e5e5e5;
 }
 
-footer p a {
+footer a {
     margin: 5px 15px;
     text-decoration: none;
+}
+
+footer div#dados p a {
+    margin: 0;
+}
+
+footer div#dados p {
+    font-size: 0.8em;
 }
